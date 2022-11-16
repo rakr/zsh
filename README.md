@@ -1,12 +1,3 @@
-```
-                 ██
-                ░██
-  ██████  ██████░██
- ░░░░██  ██░░░░ ░██████
-    ██  ░░█████ ░██░░░██
-   ██    ░░░░░██░██  ░██
-  ██████ ██████ ░██  ░██
- ░░░░░░ ░░░░░░  ░░   ░░
+# zhs configuration file
 
-  Configuration Files
-```
+Relies heavily on homebrew
