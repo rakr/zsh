@@ -1,3 +1,3 @@
-# zhs configuration file
+# zsh configuration file
 
 Relies heavily on homebrew
